@@ -1,5 +1,5 @@
 # Homebrew
-[![GitHub release](https://img.shields.io/github/release/Homebrew/brew.svg)](https://github.com/Homebrew/brew/releases)
+[![GitHub release](https://img.shields.io/github/release/Homebrew/brew.svg)](https://github.com/Homebrew/brew/releases) [![yard](https://docstand.rocro.com/badges/github.com/rocro-user/brew/documentation/yard?token=I2tuvA7yFNHs4agLZ1-tVx56iTHxiyFOogoBE4rs3Rc&branch=master)](https://docstand.rocro.com/docs/github.com/rocro-user/brew/branch/master/yard/frames.html)
 
 Features, usage and installation instructions are [summarised on the homepage](https://brew.sh). Terminology (e.g. the difference between a Cellar, Tap, Cask and so forth) is [explained here](docs/Formula-Cookbook.md#homebrew-terminology).
 
